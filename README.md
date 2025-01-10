@@ -33,3 +33,6 @@ This project focuses on replicating the layout and design of Amazon as a fronten
 ## Acknowledgements
 This project is inspired by Amazon's design and is created purely for learning and practice purposes.
 <br>
+## License  
+This project is licensed under the [MIT License](LICENSE).  
+
